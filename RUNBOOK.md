@@ -49,6 +49,8 @@ at 18:00 IST on the next free date. The queue is the buffer: a missed run never 
    Render: `node engine/render.mjs tmp/spec.json posts/rkp-<YYYY-MM-DD>.png`
    Output JSON must show `"fits": true` and `lines` of 7 or fewer, otherwise shorten the quote and re-render.
    Then open the PNG with Read and confirm nothing is clipped, no highlight hides letters, no one-word last line.
+   Typography: use curly quotes ‘ ’ “ ” and the apostrophe ’ in the quote text, never straight ' or ". If the last line is a
+   single word (an orphan like "first."), reword slightly and render again.
 9. Caption (same language as the quote): 3 short blocks separated by blank lines:
    the quote restated or sharpened, one question that invites a comment, one save/send line.
    Then a blank line and 5-6 hashtags, always including `#rohitkaperspective`.
