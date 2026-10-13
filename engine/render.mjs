@@ -102,7 +102,7 @@ function buildBody(spec) {
   return `<div id="card" style="width:1080px;height:1080px;box-sizing:border-box;background:${L.bg};color:${L.color};display:flex;flex-direction:column;justify-content:space-between;padding:96px 150px 88px 150px;font-family:${L.stack};overflow:hidden">
 <div style="display:flex;justify-content:space-between;align-items:center;${mono};font-size:24px;letter-spacing:0.14em;text-transform:uppercase;color:${L.tag}"><span>${esc(spec.tag || '')}</span><span>${esc(String(spec.num || ''))}</span></div>
 <div id="q" style="font-size:${L.max}px;line-height:${L.lh};font-weight:${L.weight};letter-spacing:${L.ls};text-align:${L.align};text-wrap:balance;${L.upper ? 'text-transform:uppercase;' : ''}">${text}</div>
-<div style="display:flex;justify-content:space-between;align-items:center;${L.rule ? `border-top:3px solid ${L.rule};padding-top:28px;` : ''}${mono};font-size:22px;letter-spacing:0.1em"><span>${esc(handle)}</span><span style="color:${L.accent}">SAVE + SHARE</span></div>
+<div style="display:flex;justify-content:space-between;align-items:center;${L.rule ? `border-top:3px solid ${L.rule};padding-top:28px;` : ''}${mono};font-size:22px;letter-spacing:0.1em"><span>${esc(handle)}</span><span style="color:${L.accent}">${esc(spec.foot || 'SAVE + SHARE')}</span></div>
 </div>`;
 }
 
