@@ -173,7 +173,160 @@ DATA = [
    'Hold the work tightly. {{Hold the outcome loosely.}}'],
   'Which of the two is harder for you? Comment below.',
   'Save this for a week when nothing seems to move.'),
+ ('2026-11-23', '394797855', '-8015325105742197701', 'Law 3 · Power', 'hinglish', 'power', [
+   'Apna plan bata dene se {{aadha plan wahin mar jaata hai.}}',
+   'Law 3: apne irade chhupao. {{Jo tumhara agla kadam jaanta hai, wo ek kadam aage khada hai.}}',
+   'Log tumhari madad nahi karte. {{Wo apne hisaab se tumhara plan adjust karne lagte hain.}}',
+   'Kaam shuru hone tak chup raho. {{Result khud bol dega, tumhe nahi bolna padega.}}',
+   'Jitna kam log jaanenge, {{utni kam rukawatein aayengi.}}'],
+  'Tumne kaun sa plan bata kar kharab kiya? Neeche likho.',
+  'Save kar lo, aur agla plan chup chaap shuru karo.'),
+
+ ('2026-11-26', '394798030', '7069921478093653823', 'Sunk Cost Fallacy', 'english', 'psych', [
+   'You are not staying because it works. {{You are staying because you already paid.}}',
+   'Sunk cost fallacy: the money and years already spent {{cannot be won back by spending more.}}',
+   'Quitting feels like admitting the past was wasted. {{So people pay again to protect a story.}}',
+   'Ask: if I were starting today, would I choose this? {{If not, the rest is just the bill.}}',
+   'The years are gone either way. {{Only the next one is still yours.}}'],
+  'What are you holding on to only because of the time spent? Comment below.',
+  'Save this for the decision you keep defending.'),
+
+ ('2026-11-29', '394798152', '-5268605909397058640', 'Wabi-sabi', 'english', 'japan', [
+   'Japan has a word for the beauty {{of things that are not finished.}}',
+   'Wabi-sabi finds beauty in the worn and the uneven, {{in the thing that clearly had a life.}}',
+   'Perfect things impress once. {{Imperfect things are the ones people keep.}}',
+   'Stop fixing the flaw nobody noticed. {{Ship it while it still has a face.}}',
+   'Nothing finished is alive. {{Nothing perfect is yours.}}'],
+  'What are you over-polishing right now? Tell us below.',
+  'Save this for the next thing you are afraid to release.'),
+
+ ('2026-11-30', '394798209', '6120555764648333102', 'Law 25 · Power', 'hinglish', 'power', [
+   'Log tumhe wahi samajhte rahenge {{jo tumne paanch saal pehle dikhaya tha.}}',
+   'Law 25: khud ko dobara banao. {{Jo image dusron ne di hai, usme zindagi mat kaat do.}}',
+   'Purani pehchaan aaram deti hai. {{Par wahi tumhare naye kaam ko rok bhi deti hai.}}',
+   'Ek aadat aaj chhod do. {{Ek cheez shuru karo jo tumhari nayi pehchaan bane.}}',
+   'Tum wahi nahi ho jo tum the. {{Bas kisi ne tumhe update nahi kiya.}}'],
+  'Log tumhe kis purani cheez se jodte hain? Neeche likho.',
+  'Save kar lo, aur aaj ek purani aadat chhod do.'),
+
+ ('2026-12-03', '394798389', '8557916693662875709', "Goodhart's Law", 'english', 'psych', [
+   'The moment a number becomes the target, {{it stops telling the truth.}}',
+   "Goodhart's Law: when a measure becomes a goal, {{it stops being a good measure.}}",
+   'People do not chase the thing. {{They chase whatever is being counted.}}',
+   'Pick a number to watch, not to win. {{And keep one you never report.}}',
+   'Followers are a number. {{Trust was the thing you were counting.}}'],
+  'Which number are you chasing too hard? Comment below.',
+  'Save this before you set your next target.'),
+
+ ('2026-12-06', '394798571', '3229230292642317194', 'Chanakya Niti', 'hinglish', 'india', [
+   'Chanakya: kaam shuru karne se pehle {{teen sawaal khud se poochho.}}',
+   'Main ye kyun kar raha hoon. {{Iska anjaam kya hoga. Aur kya mujhe safalta milegi.}}',
+   'Jo in teen ka jawab nahi de sakta, {{wo mehnat karega, par pahunchega kahin nahi.}}',
+   'Agla bada kaam shuru karne se pehle teeno likh lo. {{Ek bhi khali hai to ruk jao.}}',
+   'Mehnat se zyada mehnga {{galat jagah ki gayi mehnat padti hai.}}'],
+  'Tum abhi kaun sa kaam bina jawab ke kar rahe ho? Neeche likho.',
+  'Save karo, aur aaj teeno sawaal likh lo.'),
+
+ ('2026-12-07', '394798622', '-556606170119057958', 'Law 34 · Power', 'hinglish', 'power', [
+   'Log tumse waisa hi behave karte hain {{jaisa tum khud ko samajhte ho.}}',
+   'Law 34: apni keemat khud tay karo. {{Duniya aksar usi number ko maan leti hai.}}',
+   'Jo chhoti baat pe jhuk jaata hai, {{uske liye log chhoti baat hi rakhte hain.}}',
+   'Apna rate bolo aur chup ho jao. {{Safai dena band karo.}}',
+   'Izzat maangi nahi jaati. {{Wo tumhare apne standard se shuru hoti hai.}}'],
+  'Tumne kab apni keemat khud girayi? Comment mein likho.',
+  'Save kar lo, aur agli baar discount mat do.'),
+
+ ('2026-12-10', '394798782', '8525075398477169992', 'Spotlight Effect', 'english', 'psych', [
+   'Nobody noticed. {{They were busy worrying about their own day.}}',
+   'The spotlight effect: we think people see our mistakes {{far more than they actually do.}}',
+   'You replay your moment all evening. {{They forgot it before they reached the door.}}',
+   'Before you shrink, ask what you remember {{about what anyone else wore last week.}}',
+   'The audience you are afraid of {{is mostly you.}}'],
+  'What are you still cringing about? Tell us below.',
+  'Save this for the next time you want to disappear.'),
+
+ ('2026-12-13', '394799100', '-7571154856189737008', 'Ikigai', 'english', 'japan', [
+   'Ikigai is not your dream job. {{It is a reason to get up.}}',
+   'In Okinawa, ikigai is small. {{A garden, a friend, a thing you are needed for.}}',
+   'A huge purpose can be postponed forever. {{A small one has to happen today.}}',
+   'Name one thing tomorrow that only you will do. {{That is enough to start with.}}',
+   'You do not find your purpose. {{You show up until it forms.}}'],
+  'What gets you up tomorrow? Comment below.',
+  'Save this for a morning that feels pointless.'),
+
+ ('2026-12-14', '394799160', '-2575269966930229334', 'Law 9 · Power', 'hinglish', 'power', [
+   'Behes jeet ke bhi {{tum aksar haar jaate ho.}}',
+   'Law 9: sabit karo, samjhao mat. {{Jeeti hui behes apne peeche dushmani chhod jaati hai.}}',
+   'Log apni baat nahi, apni izzat bacha rahe hote hain. {{Isiliye sach se zyada ego ladta hai.}}',
+   'Jawab mat do. {{Chhe mahine baad result saamne rakh do.}}',
+   'Jiska kaam bol deta hai, {{use bolne ki zaroorat nahi padti.}}'],
+  'Tumne kaun si behes jeet ke rishta khoya? Neeche likho.',
+  'Save kar lo, aur agli behes chhod do.'),
+
+ ('2026-12-17', '394799297', '-5538846271156171916', 'Curse of Knowledge', 'english', 'psych', [
+   'You are not bad at explaining. {{You forgot what not knowing feels like.}}',
+   'The curse of knowledge: once you know a thing, {{you cannot imagine not knowing it.}}',
+   'Experts skip the steps that now feel obvious. {{Those steps were the whole lesson.}}',
+   'Explain it to someone outside your field. {{Every word they stop on is a step you skipped.}}',
+   'Clear is not simple. {{Clear is remembering you were once lost.}}'],
+  'What did someone finally explain well to you? Comment below.',
+  'Save this before your next explanation.'),
+
+ ('2026-12-20', '394799449', '766657926404328904', 'Sthitaprajna', 'english', 'india', [
+   'The Gita has a word for a person {{praise and insult cannot move.}}',
+   'Sthitaprajna means steady in understanding. {{Not cold. Just not thrown by either side.}}',
+   'If praise lifts you, criticism will drop you. {{You handed both the same switch.}}',
+   'Read the good comment and the bad one, {{then go back to the same work.}}',
+   'Let the weather change. {{Do not let it decide your day.}}'],
+  'Which hits you harder, praise or criticism? Tell us below.',
+  'Save this for the day the comments get loud.'),
+
+ ('2026-12-21', '394799528', '5348665303047162147', 'Law 46 · Power', 'hinglish', 'power', [
+   'Jo sab kuch sahi karta hai, {{uske liye log chup chaap intezaar karte hain.}}',
+   'Law 46: zyada perfect mat dikho. {{Log kami maaf kar dete hain, perfection kabhi nahi.}}',
+   'Tumhari har jeet kisi ko apni haar jaisi lagti hai. {{Jalan theek wahin se shuru hoti hai.}}',
+   'Apna result dikhao, apna struggle bhi. {{Sirf trophy mat dikhao.}}',
+   'Jeetna alag baat hai. {{Har waqt jeeta hua dikhna alag baat hai.}}'],
+  'Tumne kab apni jeet chhupayi? Comment mein likho.',
+  'Save kar lo, aur agli baar struggle bhi batao.'),
+
+ ('2026-12-24', '394803726', '4360918408823917437', "Dunbar's Number", 'english', 'psych', [
+   'You can hold about 150 relationships. {{Your phone thinks you can hold two thousand.}}',
+   "Dunbar's number: the brain has room for roughly 150 people, {{and only about five close ones.}}",
+   'Every extra name takes space from a real one. {{Attention does not scale.}}',
+   'This season, call five people properly. {{Let the rest be a message.}}',
+   'You are not losing friends. {{You are finally choosing them.}}'],
+  'Who are your five? Tell us below.',
+  'Save this, and call one of them today.'),
+
+ ('2026-12-27', '394803897', '3493491066533662597', 'Kintsugi', 'english', 'japan', [
+   'In Japan a broken bowl is repaired {{with gold, so the cracks show.}}',
+   'Kintsugi does not hide the break. {{It makes the break the most valuable line on the bowl.}}',
+   'A bowl that never broke has no story. {{A repaired one has survived a fall.}}',
+   'Stop editing the hard year out of your answer. {{Say what broke and what you did after.}}',
+   'The crack is not the damage. {{It is proof that you were put back.}}'],
+  'What broke, and what did you build after? Comment below.',
+  'Save this for the end of a hard year.'),
+
+ ('2026-12-28', '394803965', '-8542152789150118440', 'Law 35 · Power', 'hinglish', 'power', [
+   'Sahi baat galat waqt par {{galat baat ban jaati hai.}}',
+   'Law 35: timing seekho. {{Jaldi karne wala jhuk jaata hai, der karne wala chook jaata hai.}}',
+   'Log sirf idea nahi sunte. {{Wo dekhte hain ki idea kis haalat mein aaya hai.}}',
+   'Demand tab rakho jab tumhara kaam bol chuka ho. {{Usse pehle bilkul nahi.}}',
+   'Sabr kamzori nahi hai. {{Wo bhi ek chaal hoti hai.}}'],
+  'Tumne kab sahi baat galat waqt pe kahi? Neeche likho.',
+  'Save kar lo, aur agli demand ka waqt chuno.'),
+
+ ('2026-12-31', '394804183', '-9137100631731190271', 'Hedonic Adaptation', 'english', 'psych', [
+   'Whatever you are chasing, {{you will get used to it in a month.}}',
+   'Hedonic adaptation: the mind returns to its baseline {{after almost every win.}}',
+   'The phone, the salary, the new city. {{Each one felt permanent for about three weeks.}}',
+   'Build the year around what you do daily, {{not around what you will finally get.}}',
+   'Next year will not feel different {{because something finally arrived.}}'],
+  'What did you get that stopped mattering? Tell us below.',
+  'Save this before you write your resolutions.'),
 ]
+
 
 
 def build():

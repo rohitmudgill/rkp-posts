@@ -549,11 +549,19 @@
     "date": "2026-11-23",
     "look": "blue",
     "lang": "hinglish",
-    "pillar": "Entrepreneurship / first money",
-    "quote": "Pehla paisa sabse chhota hota hai aur sabse zyada sach bolta hai.",
-    "image": "posts/rkp-2026-11-23.png",
-    "caption": "Pehla paisa sabse chhota hota hai aur sabse zyada sach bolta hai.\n\nTumhari pehli kamai kitni thi? Comment mein likho.\n\nSave kar lo, aur us dost ko bhejo jo abhi shuru kar raha hai.\n\n#entrepreneurship #business #startup #sales #mindset #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Law 3 · Power",
+    "quote": "Apna plan bata dene se aadha plan wahin mar jaata hai.",
+    "caption": "Apna plan bata dene se aadha plan wahin mar jaata hai.\n\nTumne kaun sa plan bata kar kharab kiya? Neeche likho.\n\nSave kar lo, aur agla plan chup chaap shuru karo.\n\n#48lawsofpower #power #strategy #mindset #psychology #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Law 3 · Power",
+    "images": [
+      "posts/rkp-2026-11-23-1.png",
+      "posts/rkp-2026-11-23-2.png",
+      "posts/rkp-2026-11-23-3.png",
+      "posts/rkp-2026-11-23-4.png",
+      "posts/rkp-2026-11-23-5.png"
+    ]
   },
   {
     "date": "2026-11-24",
@@ -579,11 +587,19 @@
     "date": "2026-11-26",
     "look": "yellow",
     "lang": "english",
-    "pillar": "Society / hustle culture",
-    "quote": "A place that calls rest laziness will call burnout hard work.",
-    "image": "posts/rkp-2026-11-26.png",
-    "caption": "A place that calls rest laziness will call burnout hard work.\n\nWhen did you last take a day off without guilt? Tell us below.\n\nSave this, and send it to the friend who never stops.\n\n#society #socialmedia #hustleculture #deepthoughts #lifelessons #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Sunk Cost Fallacy",
+    "quote": "You are not staying because it works. You are staying because you already paid.",
+    "caption": "You are not staying because it works. You are staying because you already paid.\n\nWhat are you holding on to only because of the time spent? Comment below.\n\nSave this for the decision you keep defending.\n\n#psychology #mentalmodels #humanbehavior #selfawareness #deepthoughts #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Sunk Cost Fallacy",
+    "images": [
+      "posts/rkp-2026-11-26-1.png",
+      "posts/rkp-2026-11-26-2.png",
+      "posts/rkp-2026-11-26-3.png",
+      "posts/rkp-2026-11-26-4.png",
+      "posts/rkp-2026-11-26-5.png"
+    ]
   },
   {
     "date": "2026-11-27",
@@ -609,21 +625,37 @@
     "date": "2026-11-29",
     "look": "green",
     "lang": "english",
-    "pillar": "Deep psychology / silence",
-    "quote": "The quietest people are not calm. They just stopped expecting anyone to ask twice.",
-    "image": "posts/rkp-2026-11-29.png",
-    "caption": "The quietest people are not calm. They just stopped expecting anyone to ask twice.\n\nWho asks you twice? Tell us below.\n\nSave this, and ask someone twice today.\n\n#psychology #loneliness #selfworth #deepthoughts #overthinking #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Wabi-sabi",
+    "quote": "Japan has a word for the beauty of things that are not finished.",
+    "caption": "Japan has a word for the beauty of things that are not finished.\n\nWhat are you over-polishing right now? Tell us below.\n\nSave this for the next thing you are afraid to release.\n\n#japanesephilosophy #kaizen #mindset #discipline #lifelessons #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Wabi-sabi",
+    "images": [
+      "posts/rkp-2026-11-29-1.png",
+      "posts/rkp-2026-11-29-2.png",
+      "posts/rkp-2026-11-29-3.png",
+      "posts/rkp-2026-11-29-4.png",
+      "posts/rkp-2026-11-29-5.png"
+    ]
   },
   {
     "date": "2026-11-30",
     "look": "blue",
     "lang": "hinglish",
-    "pillar": "Entrepreneurship / feedback",
-    "quote": "Free mein sab taarif karenge. Asli feedback wahi deta hai jo paisa deta hai.",
-    "image": "posts/rkp-2026-11-30.png",
-    "caption": "Free mein sab taarif karenge. Asli feedback wahi deta hai jo paisa deta hai.\n\nTumhe pehli baar kisne paisa diya tha? Comment mein likho.\n\nSave kar lo, aur us dost ko bhejo jo abhi tak free mein kaam kar raha hai.\n\n#entrepreneurship #business #startup #sales #mindset #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Law 25 · Power",
+    "quote": "Log tumhe wahi samajhte rahenge jo tumne paanch saal pehle dikhaya tha.",
+    "caption": "Log tumhe wahi samajhte rahenge jo tumne paanch saal pehle dikhaya tha.\n\nLog tumhe kis purani cheez se jodte hain? Neeche likho.\n\nSave kar lo, aur aaj ek purani aadat chhod do.\n\n#48lawsofpower #power #strategy #mindset #psychology #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Law 25 · Power",
+    "images": [
+      "posts/rkp-2026-11-30-1.png",
+      "posts/rkp-2026-11-30-2.png",
+      "posts/rkp-2026-11-30-3.png",
+      "posts/rkp-2026-11-30-4.png",
+      "posts/rkp-2026-11-30-5.png"
+    ]
   },
   {
     "date": "2026-12-01",
@@ -649,11 +681,19 @@
     "date": "2026-12-03",
     "look": "white",
     "lang": "english",
-    "pillar": "Society / adulthood",
-    "quote": "Nobody tells you that most adults are just older kids with better excuses.",
-    "image": "posts/rkp-2026-12-03.png",
-    "caption": "Nobody tells you that most adults are just older kids with better excuses.\n\nWhen did you realise the adults were figuring it out too? Tell us below.\n\nSave this for the day you feel behind everyone.\n\n#society #socialmedia #hustleculture #deepthoughts #lifelessons #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Goodhart's Law",
+    "quote": "The moment a number becomes the target, it stops telling the truth.",
+    "caption": "The moment a number becomes the target, it stops telling the truth.\n\nWhich number are you chasing too hard? Comment below.\n\nSave this before you set your next target.\n\n#psychology #mentalmodels #humanbehavior #selfawareness #deepthoughts #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Goodhart's Law",
+    "images": [
+      "posts/rkp-2026-12-03-1.png",
+      "posts/rkp-2026-12-03-2.png",
+      "posts/rkp-2026-12-03-3.png",
+      "posts/rkp-2026-12-03-4.png",
+      "posts/rkp-2026-12-03-5.png"
+    ]
   },
   {
     "date": "2026-12-04",
@@ -678,22 +718,38 @@
   {
     "date": "2026-12-06",
     "look": "yellow",
-    "lang": "english",
-    "pillar": "Deep psychology / fear of failing",
-    "quote": "You are not scared of failing. You are scared of people finally being right about you.",
-    "image": "posts/rkp-2026-12-06.png",
-    "caption": "You are not scared of failing. You are scared of people finally being right about you.\n\nWhose opinion are you still carrying? Comment below.\n\nSave this for the day before you try something big.\n\n#psychology #loneliness #selfworth #deepthoughts #overthinking #rohitkaperspective",
-    "source": "batch-2"
+    "lang": "hinglish",
+    "pillar": "Carousel / Chanakya Niti",
+    "quote": "Chanakya: kaam shuru karne se pehle teen sawaal khud se poochho.",
+    "caption": "Chanakya: kaam shuru karne se pehle teen sawaal khud se poochho.\n\nTum abhi kaun sa kaam bina jawab ke kar rahe ho? Neeche likho.\n\nSave karo, aur aaj teeno sawaal likh lo.\n\n#chanakyaniti #bhagavadgita #indianwisdom #philosophy #lifelessons #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Chanakya Niti",
+    "images": [
+      "posts/rkp-2026-12-06-1.png",
+      "posts/rkp-2026-12-06-2.png",
+      "posts/rkp-2026-12-06-3.png",
+      "posts/rkp-2026-12-06-4.png",
+      "posts/rkp-2026-12-06-5.png"
+    ]
   },
   {
     "date": "2026-12-07",
     "look": "blue",
     "lang": "hinglish",
-    "pillar": "Entrepreneurship / follow-up",
-    "quote": "Best idea wala nahi jeetta. Jeetta wo hai jo follow-up karta rehta hai.",
-    "image": "posts/rkp-2026-12-07.png",
-    "caption": "Best idea wala nahi jeetta. Jeetta wo hai jo follow-up karta rehta hai.\n\nTumne last follow-up kab kiya tha? Comment mein likho.\n\nSave kar lo, aur aaj do logon ko follow-up message bhejo.\n\n#entrepreneurship #business #startup #sales #mindset #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Law 34 · Power",
+    "quote": "Log tumse waisa hi behave karte hain jaisa tum khud ko samajhte ho.",
+    "caption": "Log tumse waisa hi behave karte hain jaisa tum khud ko samajhte ho.\n\nTumne kab apni keemat khud girayi? Comment mein likho.\n\nSave kar lo, aur agli baar discount mat do.\n\n#48lawsofpower #power #strategy #mindset #psychology #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Law 34 · Power",
+    "images": [
+      "posts/rkp-2026-12-07-1.png",
+      "posts/rkp-2026-12-07-2.png",
+      "posts/rkp-2026-12-07-3.png",
+      "posts/rkp-2026-12-07-4.png",
+      "posts/rkp-2026-12-07-5.png"
+    ]
   },
   {
     "date": "2026-12-08",
@@ -719,11 +775,19 @@
     "date": "2026-12-10",
     "look": "red",
     "lang": "english",
-    "pillar": "Society / politeness",
-    "quote": "You were taught to be polite. You were never taught what to do when polite does not work.",
-    "image": "posts/rkp-2026-12-10.png",
-    "caption": "You were taught to be polite. You were never taught what to do when polite does not work.\n\nWhere do you need to stop being polite? Comment below.\n\nSave this for the next conversation you keep avoiding.\n\n#society #socialmedia #hustleculture #deepthoughts #lifelessons #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Spotlight Effect",
+    "quote": "Nobody noticed. They were busy worrying about their own day.",
+    "caption": "Nobody noticed. They were busy worrying about their own day.\n\nWhat are you still cringing about? Tell us below.\n\nSave this for the next time you want to disappear.\n\n#psychology #mentalmodels #humanbehavior #selfawareness #deepthoughts #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Spotlight Effect",
+    "images": [
+      "posts/rkp-2026-12-10-1.png",
+      "posts/rkp-2026-12-10-2.png",
+      "posts/rkp-2026-12-10-3.png",
+      "posts/rkp-2026-12-10-4.png",
+      "posts/rkp-2026-12-10-5.png"
+    ]
   },
   {
     "date": "2026-12-11",
@@ -749,21 +813,37 @@
     "date": "2026-12-13",
     "look": "green",
     "lang": "english",
-    "pillar": "Deep psychology / being the strong one",
-    "quote": "Some nights you are not sad. You are just tired of being the strong one.",
-    "image": "posts/rkp-2026-12-13.png",
-    "caption": "Some nights you are not sad. You are just tired of being the strong one.\n\nWho checks on you? Tell us below.\n\nSave this, and send it to the person everyone leans on.\n\n#psychology #loneliness #selfworth #deepthoughts #overthinking #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Ikigai",
+    "quote": "Ikigai is not your dream job. It is a reason to get up.",
+    "caption": "Ikigai is not your dream job. It is a reason to get up.\n\nWhat gets you up tomorrow? Comment below.\n\nSave this for a morning that feels pointless.\n\n#japanesephilosophy #kaizen #mindset #discipline #lifelessons #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Ikigai",
+    "images": [
+      "posts/rkp-2026-12-13-1.png",
+      "posts/rkp-2026-12-13-2.png",
+      "posts/rkp-2026-12-13-3.png",
+      "posts/rkp-2026-12-13-4.png",
+      "posts/rkp-2026-12-13-5.png"
+    ]
   },
   {
     "date": "2026-12-14",
     "look": "blue",
     "lang": "hinglish",
-    "pillar": "Entrepreneurship / giving up",
-    "quote": "Business paisa khatam hone se band nahi hota. Ummeed pehle khatam hoti hai.",
-    "image": "posts/rkp-2026-12-14.png",
-    "caption": "Business paisa khatam hone se band nahi hota. Ummeed pehle khatam hoti hai.\n\nTumne kaun sa kaam chhodne se pehle rok liya tha? Comment mein likho.\n\nSave kar lo, aur us dost ko bhejo jo abhi haar maan raha hai.\n\n#entrepreneurship #business #startup #sales #mindset #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Law 9 · Power",
+    "quote": "Behes jeet ke bhi tum aksar haar jaate ho.",
+    "caption": "Behes jeet ke bhi tum aksar haar jaate ho.\n\nTumne kaun si behes jeet ke rishta khoya? Neeche likho.\n\nSave kar lo, aur agli behes chhod do.\n\n#48lawsofpower #power #strategy #mindset #psychology #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Law 9 · Power",
+    "images": [
+      "posts/rkp-2026-12-14-1.png",
+      "posts/rkp-2026-12-14-2.png",
+      "posts/rkp-2026-12-14-3.png",
+      "posts/rkp-2026-12-14-4.png",
+      "posts/rkp-2026-12-14-5.png"
+    ]
   },
   {
     "date": "2026-12-15",
@@ -789,11 +869,19 @@
     "date": "2026-12-17",
     "look": "white",
     "lang": "english",
-    "pillar": "Society / money talk",
-    "quote": "People who are at peace with money rarely talk about it. People who are scared of it never stop.",
-    "image": "posts/rkp-2026-12-17.png",
-    "caption": "People who are at peace with money rarely talk about it. People who are scared of it never stop.\n\nWho taught you how to think about money? Tell us below.\n\nSave this for the next room full of numbers.\n\n#society #socialmedia #hustleculture #deepthoughts #lifelessons #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Curse of Knowledge",
+    "quote": "You are not bad at explaining. You forgot what not knowing feels like.",
+    "caption": "You are not bad at explaining. You forgot what not knowing feels like.\n\nWhat did someone finally explain well to you? Comment below.\n\nSave this before your next explanation.\n\n#psychology #mentalmodels #humanbehavior #selfawareness #deepthoughts #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Curse of Knowledge",
+    "images": [
+      "posts/rkp-2026-12-17-1.png",
+      "posts/rkp-2026-12-17-2.png",
+      "posts/rkp-2026-12-17-3.png",
+      "posts/rkp-2026-12-17-4.png",
+      "posts/rkp-2026-12-17-5.png"
+    ]
   },
   {
     "date": "2026-12-18",
@@ -819,21 +907,37 @@
     "date": "2026-12-20",
     "look": "yellow",
     "lang": "english",
-    "pillar": "Deep psychology / kindness",
-    "quote": "You remember every small kindness because you were not expecting any.",
-    "image": "posts/rkp-2026-12-20.png",
-    "caption": "You remember every small kindness because you were not expecting any.\n\nWhich small kindness do you still remember? Tell us below.\n\nSave this, and do one small thing for someone today.\n\n#psychology #loneliness #selfworth #deepthoughts #overthinking #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Sthitaprajna",
+    "quote": "The Gita has a word for a person praise and insult cannot move.",
+    "caption": "The Gita has a word for a person praise and insult cannot move.\n\nWhich hits you harder, praise or criticism? Tell us below.\n\nSave this for the day the comments get loud.\n\n#chanakyaniti #bhagavadgita #indianwisdom #philosophy #lifelessons #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Sthitaprajna",
+    "images": [
+      "posts/rkp-2026-12-20-1.png",
+      "posts/rkp-2026-12-20-2.png",
+      "posts/rkp-2026-12-20-3.png",
+      "posts/rkp-2026-12-20-4.png",
+      "posts/rkp-2026-12-20-5.png"
+    ]
   },
   {
     "date": "2026-12-21",
     "look": "blue",
     "lang": "hinglish",
-    "pillar": "Entrepreneurship / selling",
-    "quote": "Jo cheez tum bech nahi paa rahe, usme problem aksar product mein nahi, tumhare dar mein hoti hai.",
-    "image": "posts/rkp-2026-12-21.png",
-    "caption": "Jo cheez tum bech nahi paa rahe, usme problem aksar product mein nahi, tumhare dar mein hoti hai.\n\nTumhe sabse zyada dar kis cheez se lagta hai: poochne se ya sunne se? Comment mein likho.\n\nSave kar lo, aur aaj ek insaan ko offer bhej do.\n\n#entrepreneurship #business #startup #sales #mindset #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Law 46 · Power",
+    "quote": "Jo sab kuch sahi karta hai, uske liye log chup chaap intezaar karte hain.",
+    "caption": "Jo sab kuch sahi karta hai, uske liye log chup chaap intezaar karte hain.\n\nTumne kab apni jeet chhupayi? Comment mein likho.\n\nSave kar lo, aur agli baar struggle bhi batao.\n\n#48lawsofpower #power #strategy #mindset #psychology #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Law 46 · Power",
+    "images": [
+      "posts/rkp-2026-12-21-1.png",
+      "posts/rkp-2026-12-21-2.png",
+      "posts/rkp-2026-12-21-3.png",
+      "posts/rkp-2026-12-21-4.png",
+      "posts/rkp-2026-12-21-5.png"
+    ]
   },
   {
     "date": "2026-12-22",
@@ -859,11 +963,19 @@
     "date": "2026-12-24",
     "look": "white",
     "lang": "english",
-    "pillar": "Society / festivals",
-    "quote": "Festivals show you who calls because they want to, and who calls because it is the date.",
-    "image": "posts/rkp-2026-12-24.png",
-    "caption": "Festivals show you who calls because they want to, and who calls because it is the date.\n\nWho called you first last festival? Tell us below.\n\nSave this, and call the person you actually miss.\n\n#society #socialmedia #hustleculture #deepthoughts #lifelessons #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Dunbar's Number",
+    "quote": "You can hold about 150 relationships. Your phone thinks you can hold two thousand.",
+    "caption": "You can hold about 150 relationships. Your phone thinks you can hold two thousand.\n\nWho are your five? Tell us below.\n\nSave this, and call one of them today.\n\n#psychology #mentalmodels #humanbehavior #selfawareness #deepthoughts #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Dunbar's Number",
+    "images": [
+      "posts/rkp-2026-12-24-1.png",
+      "posts/rkp-2026-12-24-2.png",
+      "posts/rkp-2026-12-24-3.png",
+      "posts/rkp-2026-12-24-4.png",
+      "posts/rkp-2026-12-24-5.png"
+    ]
   },
   {
     "date": "2026-12-25",
@@ -889,21 +1001,37 @@
     "date": "2026-12-27",
     "look": "white",
     "lang": "english",
-    "pillar": "Deep psychology / healing",
-    "quote": "Healing is boring. It is the same small choice, on a day no one is watching.",
-    "image": "posts/rkp-2026-12-27.png",
-    "caption": "Healing is boring. It is the same small choice, on a day no one is watching.\n\nWhat is your small boring choice? Tell us below.\n\nSave this for a day that feels like nothing changed.\n\n#psychology #loneliness #selfworth #deepthoughts #overthinking #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Kintsugi",
+    "quote": "In Japan a broken bowl is repaired with gold, so the cracks show.",
+    "caption": "In Japan a broken bowl is repaired with gold, so the cracks show.\n\nWhat broke, and what did you build after? Comment below.\n\nSave this for the end of a hard year.\n\n#japanesephilosophy #kaizen #mindset #discipline #lifelessons #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Kintsugi",
+    "images": [
+      "posts/rkp-2026-12-27-1.png",
+      "posts/rkp-2026-12-27-2.png",
+      "posts/rkp-2026-12-27-3.png",
+      "posts/rkp-2026-12-27-4.png",
+      "posts/rkp-2026-12-27-5.png"
+    ]
   },
   {
     "date": "2026-12-28",
     "look": "blue",
     "lang": "hinglish",
-    "pillar": "Entrepreneurship / learning",
-    "quote": "Saal bhar seekhne se kuch nahi hota. Ek baar bech ke dekho, poora syllabus samajh aa jaayega.",
-    "image": "posts/rkp-2026-12-28.png",
-    "caption": "Saal bhar seekhne se kuch nahi hota. Ek baar bech ke dekho, poora syllabus samajh aa jaayega.\n\nTumne aaj tak kya becha hai? Comment mein likho.\n\nSave kar lo, aur is hafte ek cheez bech ke dekho.\n\n#entrepreneurship #business #startup #sales #mindset #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Law 35 · Power",
+    "quote": "Sahi baat galat waqt par galat baat ban jaati hai.",
+    "caption": "Sahi baat galat waqt par galat baat ban jaati hai.\n\nTumne kab sahi baat galat waqt pe kahi? Neeche likho.\n\nSave kar lo, aur agli demand ka waqt chuno.\n\n#48lawsofpower #power #strategy #mindset #psychology #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Law 35 · Power",
+    "images": [
+      "posts/rkp-2026-12-28-1.png",
+      "posts/rkp-2026-12-28-2.png",
+      "posts/rkp-2026-12-28-3.png",
+      "posts/rkp-2026-12-28-4.png",
+      "posts/rkp-2026-12-28-5.png"
+    ]
   },
   {
     "date": "2026-12-29",
@@ -929,11 +1057,19 @@
     "date": "2026-12-31",
     "look": "yellow",
     "lang": "english",
-    "pillar": "Society / year end",
-    "quote": "Every year ends with a list of things you survived, not the list you planned.",
-    "image": "posts/rkp-2026-12-31.png",
-    "caption": "Every year ends with a list of things you survived, not the list you planned.\n\nWhat did you survive this year? Tell us below.\n\nSave this, and read it again next December.\n\n#society #socialmedia #hustleculture #deepthoughts #lifelessons #rohitkaperspective",
-    "source": "batch-2"
+    "pillar": "Carousel / Hedonic Adaptation",
+    "quote": "Whatever you are chasing, you will get used to it in a month.",
+    "caption": "Whatever you are chasing, you will get used to it in a month.\n\nWhat did you get that stopped mattering? Tell us below.\n\nSave this before you write your resolutions.\n\n#psychology #mentalmodels #humanbehavior #selfawareness #deepthoughts #rohitkaperspective",
+    "source": "carousel-1",
+    "format": "carousel",
+    "principle": "Hedonic Adaptation",
+    "images": [
+      "posts/rkp-2026-12-31-1.png",
+      "posts/rkp-2026-12-31-2.png",
+      "posts/rkp-2026-12-31-3.png",
+      "posts/rkp-2026-12-31-4.png",
+      "posts/rkp-2026-12-31-5.png"
+    ]
   },
   {
     "date": "2027-01-01",
