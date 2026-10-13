@@ -65,8 +65,22 @@ at 18:00 IST on the next free date. The queue is the buffer: a missed run never 
     Success = response media URL starts with `https://static.metricool.com/`. On a media error wait 60 s and retry once.
 12. Final message, one short block: date, quote, look, pillar, planner link.
 
+## Wording: deep idea, easy words
+The quotes work like the big Instagram quote pages: a line a tired person understands in one read,
+that still lands days later. Depth comes from the idea, never from the vocabulary.
+- Everyday words only. No jargon: not "projection", "validation", "identity", "unhealed",
+  "defence mechanism", "budgeted for", "capacity". If a 15-year-old would pause on a word, cut it.
+- 8-18 words. Two short sentences: an ordinary setup, then the turn.
+- Use a concrete detail from Indian daily life: 2 am messages, last seen, result day, relatives,
+  a group photo, a price, a time table, a phone call home. A detail beats an adjective.
+- The turn should name a feeling the reader has had but never put into words. If the second
+  sentence only repeats the first, the quote is dead - rewrite it.
+- No instructions inside the quote ("you should", "stop doing X"). Show, don't advise.
+- Pain quotes end in recognition or relief, never despair.
+
 ## Voice bar (examples of the level to hit, not to reuse)
-- "Red flags tumhe dikhe the. Tumne unhe 'potential' naam de diya."
-- "Burnout thakna nahi hai. Wo kaam karna hai jisme tum khud nahi ho."
-- "You're not tired because you did too much. You're tired because you did too much of what isn't yours."
-- "Some people don't need a reason to leave. They just need you to stop being convenient."
+- "Kuch rishte tootte nahi. Bas dono taraf se message karna band ho jaata hai."
+- "Topper ka time table copy karne se pehle uski neend bhi dekh lena."
+- "Most of your anger is just sadness that got tired of being polite."
+- "You check your phone that often because somewhere you are still waiting for one name."
+- "A place that calls rest laziness will call burnout hard work."
