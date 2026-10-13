@@ -22,17 +22,26 @@ at 18:00 IST on the next free date. The queue is the buffer: a missed run never 
    deep understanding. Never write a post aimed only at students or exam aspirants, and
    never a post aimed only at creators or content makers. The audience is everyone.
 
-   | Day | Pillar | Language |
-   |-----|--------|----------|
-   | Mon | Entrepreneurship and business: customers, money, risk, decisions, building | Hinglish |
-   | Tue | Psychology: anger, habits, why people react the way they do | English |
-   | Wed | People: friendship, family, how people treat each other | Hinglish |
-   | Thu | People and society: class, money, expectations, social media, relatives | English |
-   | Fri | People: love, loyalty, distance, letting go | Hinglish |
-   | Sat | Life: time, regret, growing up, money, what matters later | Hinglish |
-   | Sun | Deep understanding: loneliness, self-worth, fear, healing | English |
+   | Day | Format | Pillar | Language |
+   |-----|--------|--------|----------|
+   | Mon | CAROUSEL | A law from the 48 Laws of Power | Hinglish |
+   | Tue | single | Psychology: anger, habits, why people react the way they do | English |
+   | Wed | single | People: friendship, family, how people treat each other | Hinglish |
+   | Thu | CAROUSEL | A named psychology law or effect | English |
+   | Fri | single | People: love, loyalty, distance, letting go | Hinglish |
+   | Sat | single | Life: time, regret, growing up, money, what matters later | Hinglish |
+   | Sun | CAROUSEL | A Japanese or an Indian principle, alternating week by week | English |
 
    (English is 3 of 7 days, well above the 30% minimum.)
+
+   A CAROUSEL is five slides: hook, the rule, why it works, how to use it, close.
+   Slide 1's tag names the law or principle; the slides explain it in plain everyday words.
+   Never copy a book's own sentences - name the law, then put the meaning in your own words.
+   `engine/carousels.py` holds every carousel published so far: read it so a law is never
+   repeated, and follow its shape to add a new one. Slide 1 keeps the date's look and
+   slides 2-5 cycle through the remaining four, so the feed's colour rhythm is unchanged.
+   Render with `node engine/render.mjs --batch tmp/cbatch.json`. In Metricool, send all five
+   raw URLs in `media` in slide order, with one `mediaAltText` entry per slide.
 5. Write 12 candidate quotes. Score each 1-5 on: recognition ("that is about me"), twist (a reversal
    or reframe in the second half), brevity, shareability ("I must send this to someone"),
    originality. Keep the best one only if its total is 20/25 or more, otherwise write 12 more.
