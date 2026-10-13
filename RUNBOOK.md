@@ -18,15 +18,19 @@ at 18:00 IST on the next free date. The queue is the buffer: a missed run never 
    30 days ahead, stop and report "buffer full" (do not pile up posts).
 4. Pillar and language come from the weekday of the TARGET date:
 
+   There are FIVE pillars and no others: people, life, entrepreneurship, psychology,
+   deep understanding. Never write a post aimed only at students or exam aspirants, and
+   never a post aimed only at creators or content makers. The audience is everyone.
+
    | Day | Pillar | Language |
    |-----|--------|----------|
    | Mon | Entrepreneurship and business: customers, money, risk, decisions, building | Hinglish |
-   | Tue | Psychology: biases, defence mechanisms, attachment, habits | English |
-   | Wed | Students: exams, comparison, learning, parental pressure, careers | Hinglish |
-   | Thu | Society: class, expectations, social media, hustle culture, family | English |
-   | Fri | Creativity: starting, taste vs skill, fear of being seen, consistency | Hinglish |
-   | Sat | Life: loss, time, friendship, growing up, regret | Hinglish |
-   | Sun | Deep psychology: loneliness, overthinking, self-worth | English |
+   | Tue | Psychology: anger, habits, why people react the way they do | English |
+   | Wed | People: friendship, family, how people treat each other | Hinglish |
+   | Thu | People and society: class, money, expectations, social media, relatives | English |
+   | Fri | People: love, loyalty, distance, letting go | Hinglish |
+   | Sat | Life: time, regret, growing up, money, what matters later | Hinglish |
+   | Sun | Deep understanding: loneliness, self-worth, fear, healing | English |
 
    (English is 3 of 7 days, well above the 30% minimum.)
 5. Write 12 candidate quotes. Score each 1-5 on: recognition ("that is about me"), twist (a reversal
