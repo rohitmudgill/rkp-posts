@@ -16,12 +16,13 @@ at 18:00 IST on the next free date. The queue is the buffer: a missed run never 
 3. Find the target date: call Metricool `getScheduledPosts` (query in two ranges if the output is too large;
    the queue currently runs to 1 Jan 2027). Target = latest scheduled date + gap, 18:00 IST. No scheduled
    posts: tomorrow. If the latest scheduled date is more than 30 days ahead, stop and report "buffer full".
-   CADENCE (Metricool plan allows 20 posts per calendar month): every date up to and including 1 Jan 2027
-   is already filled daily. From 2 Jan 2027 on, space posts with alternating gaps of 2 days then 1 day
-   (about 20 a month): if the gap before the latest scheduled post was 1 day (or it is the 1 Jan 2027 post),
-   the new gap is 2 days; if that gap was 2 days, the new gap is 1 day. Before scheduling, count posts already
-   in the target calendar month: if it already has 20, move the target to the 1st of the next month. The weekday
-   table in step 4 still follows the TARGET date's weekday.
+   CADENCE (Metricool plan allows 20 posts per calendar month; exceeding it blocks the account): the queue was
+   re-spaced on 30 Oct 2026 so Oct 30-31, Nov, Dec, Jan and Feb 1-2 hold at most 20 per month (pattern: two
+   posts, one day off). The queue currently ends on 2 Feb 2027 (the last gap was 1 day). Gap rule for the next
+   post: if the gap before the latest scheduled post was 1 day the new gap is 2 days, if it was 2 days the new
+   gap is 1 day. HARD CAP: before scheduling, count posts already in the target calendar month; if it already
+   has 20, move the target to the 1st of the next month. Never schedule a 21st post in any month. The weekday
+   table in step 4 follows the TARGET date's weekday. Ledger entries keep `moved_from` where a post was re-dated.
 4. Pillar and language come from the weekday of the TARGET date:
 
    There are FIVE pillars and no others: people, life, entrepreneurship, psychology,
