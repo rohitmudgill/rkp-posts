@@ -13,9 +13,15 @@ at 18:00 IST on the next free date. The queue is the buffer: a missed run never 
 ## Steps
 1. `add_repo` (access: push) for this repo, `cd` into it, `npm ci`.
 2. Read `ledger.json` (every quote ever used). Never repeat a quote or a core idea from the last 60 entries.
-3. Find the target date: call Metricool `getScheduledPosts` (today .. +45 days). Target = latest scheduled
-   date + 1 day, 18:00 IST. No scheduled posts: tomorrow. If the latest scheduled date is more than
-   30 days ahead, stop and report "buffer full" (do not pile up posts).
+3. Find the target date: call Metricool `getScheduledPosts` (query in two ranges if the output is too large;
+   the queue currently runs to 1 Jan 2027). Target = latest scheduled date + gap, 18:00 IST. No scheduled
+   posts: tomorrow. If the latest scheduled date is more than 30 days ahead, stop and report "buffer full".
+   CADENCE (Metricool plan allows 20 posts per calendar month): every date up to and including 1 Jan 2027
+   is already filled daily. From 2 Jan 2027 on, space posts with alternating gaps of 2 days then 1 day
+   (about 20 a month): if the gap before the latest scheduled post was 1 day (or it is the 1 Jan 2027 post),
+   the new gap is 2 days; if that gap was 2 days, the new gap is 1 day. Before scheduling, count posts already
+   in the target calendar month: if it already has 20, move the target to the 1st of the next month. The weekday
+   table in step 4 still follows the TARGET date's weekday.
 4. Pillar and language come from the weekday of the TARGET date:
 
    There are FIVE pillars and no others: people, life, entrepreneurship, psychology,
