@@ -33,6 +33,13 @@ if (argv[0] === '--batch') {
 
 const MONO = ['Space Mono', 'space-mono', [[700, 'normal']]];
 const LOOKS = {
+  genz: {
+    bg: '#0A0A12', bgCss: 'radial-gradient(900px 700px at 105% -10%, rgba(255,60,172,0.55), transparent 60%), radial-gradient(800px 700px at -10% 110%, rgba(120,255,214,0.38), transparent 60%), #0A0A12',
+    color: '#F5F5FF', stack: "'Bricolage Grotesque', sans-serif", weight: 800, upper: false,
+    ls: '-0.03em', lh: 1.06, align: 'left', max: 96, min: 58, tag: '#B6FF3B', accent: '#FF3CAC',
+    hl: 'block', hlBg: '#B6FF3B', hlColor: '#0A0A12', rule: null,
+    fonts: [['Bricolage Grotesque', 'bricolage-grotesque', [[800, 'normal']]], MONO],
+  },
   red: {
     bg: '#E1261C', color: '#FFFFFF', stack: "'Anton', sans-serif", weight: 400, upper: true,
     ls: '0.01em', lh: 1.25, align: 'left', max: 104, min: 70, tag: '#FFFFFF', accent: '#FFFFFF',
@@ -99,9 +106,10 @@ function buildBody(spec) {
   text = text.replace(/\{\{([\s\S]+?)\}\}/g, (_, t) => `<span style="${hlCss}">${t}</span>`);
 
   const mono = "font-family:'Space Mono',monospace;font-weight:700";
-  return `<div id="card" style="width:1080px;height:1080px;box-sizing:border-box;background:${L.bg};color:${L.color};display:flex;flex-direction:column;justify-content:space-between;padding:96px 150px 88px 150px;font-family:${L.stack};overflow:hidden">
+  return `<div id="card" style="width:1080px;height:1080px;box-sizing:border-box;background:${L.bgCss || L.bg};color:${L.color};display:flex;flex-direction:column;justify-content:space-between;padding:96px 150px 88px 150px;font-family:${L.stack};overflow:hidden">
 <div style="display:flex;justify-content:space-between;align-items:center;${mono};font-size:24px;letter-spacing:0.14em;text-transform:uppercase;color:${L.tag}"><span>${esc(spec.tag || '')}</span><span>${esc(String(spec.num || ''))}</span></div>
 <div id="q" style="font-size:${L.max}px;line-height:${L.lh};font-weight:${L.weight};letter-spacing:${L.ls};text-align:${L.align};text-wrap:balance;${L.upper ? 'text-transform:uppercase;' : ''}">${text}</div>
+${spec.by ? `<div style="${mono};font-size:26px;letter-spacing:0.08em;text-transform:uppercase;color:${L.tag};margin-top:-24px">&mdash; ${esc(spec.by)}</div>` : '<div></div>'}
 <div style="display:flex;justify-content:space-between;align-items:center;${L.rule ? `border-top:3px solid ${L.rule};padding-top:28px;` : ''}${mono};font-size:22px;letter-spacing:0.1em"><span>${esc(handle)}</span><span style="color:${L.accent}">${esc(spec.foot || 'SAVE + SHARE')}</span></div>
 </div>`;
 }
