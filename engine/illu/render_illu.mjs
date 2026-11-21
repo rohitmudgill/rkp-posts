@@ -26,11 +26,11 @@ const FILTER = `<defs><filter id="paint" x="-5%" y="-5%" width="110%" height="11
 // ---------- scenes (all drawn on a 1080-wide canvas; y offset passed in) ----------
 const scenes = {
   // seated man looking up at a storm in his head, calm tea beside him
-  imagination: (ox=0, oy=0) => `<g transform="translate(${ox},${oy})" filter="url(#paint)">
+  imagination: (ox=0, oy=0, tr) => `<g transform="${tr || `translate(${ox},${oy})`}" filter="url(#paint)">
     <!-- storm bubble -->
-    <path d="M520 150 C470 150 440 190 455 228 C415 240 410 300 455 318 C470 365 545 372 580 340 C625 372 705 352 712 300 C760 290 765 225 715 207 C710 160 640 140 600 170 C575 150 545 145 520 150Z" fill="${C.black}"/>
+    <g transform="translate(120,-165)"><path d="M520 150 C470 150 440 190 455 228 C415 240 410 300 455 318 C470 365 545 372 580 340 C625 372 705 352 712 300 C760 290 765 225 715 207 C710 160 640 140 600 170 C575 150 545 145 520 150Z" fill="${C.black}"/>
     <path d="M590 235 L545 305 L585 300 L560 365 L640 275 L598 280 L625 235Z" fill="${C.mustard}"/>
-    <circle cx="470" cy="395" r="16" fill="${C.black}"/><circle cx="440" cy="440" r="9" fill="${C.black}"/>
+    </g><circle cx="640" cy="232" r="15" fill="${C.black}"/><circle cx="598" cy="262" r="9" fill="${C.black}"/>
     <!-- armchair -->
     <path d="M205 590 L205 840 L260 840 L270 640Z" fill="${C.brown}"/>
     <path d="M215 640 L330 620 L360 800 L230 810Z" fill="${C.mustard}"/>
@@ -80,7 +80,7 @@ html,body{margin:0;background:${C.white}}
 #h{position:absolute;left:0;right:0;bottom:22px;text-align:center;font-size:30px;color:${C.ink};letter-spacing:0.03em}
 svg{position:absolute;left:0;top:0}
 </style></head><body><div id="c">
-<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">${FILTER}${scenes[scene](spec.ox||0,spec.oy||0)}</svg>
+<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">${FILTER}${scenes[scene](spec.ox||0,spec.oy||0,spec.tr)}</svg>
 <div id="t">${text}</div><div id="by">${esc(by||'')}</div><div id="h">${handle}</div></div></body></html>`;
 }
 const jobs = JSON.parse(fs.readFileSync(process.argv[2],'utf8'));
