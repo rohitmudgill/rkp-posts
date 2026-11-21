@@ -72,6 +72,11 @@ const LOOKS = {
   },
 };
 
+LOOKS.genz_pink = { ...LOOKS.genz, hlBg: '#FF3CAC', hlColor: '#0A0A12', tag: '#FF3CAC', accent: '#B6FF3B',
+  bgCss: 'radial-gradient(900px 700px at -10% -10%, rgba(182,255,59,0.30), transparent 60%), radial-gradient(800px 700px at 110% 110%, rgba(255,60,172,0.50), transparent 60%), #0A0A12' };
+LOOKS.genz_cyan = { ...LOOKS.genz, hlBg: '#5CE1FF', hlColor: '#0A0A12', tag: '#5CE1FF', accent: '#FFD43B',
+  bgCss: 'radial-gradient(900px 700px at 105% 105%, rgba(92,225,255,0.40), transparent 60%), radial-gradient(800px 700px at -10% -5%, rgba(140,80,255,0.50), transparent 60%), #0A0A12' };
+
 // Every look's fonts are embedded once, so a batch shares one stylesheet.
 let fontCss = '';
 const seen = new Set();
